@@ -1,0 +1,7 @@
+BottleOfWater//name:pepsi/price:42/volume:45
+HotDrink//name:latte/price:42/volume:45/temperature:70
+BottleOfWater//name:coca-cola/price:67/volume:90
+HotDrink//name:espresso/price:67/volume:64/temperature:65
+BottleOfWater//name:coca-cola/price:50/volume:70
+HotDrink//name:greenfield/price:50/volume:70/temperature:50
+Chips//name:Lay's/price:65/volume:40/packingType:Пакет «флоу-пак»
